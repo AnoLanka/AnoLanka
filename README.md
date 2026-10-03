@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anodhya 👋
 
-<!--
-**AnoLanka/AnoLanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Mechanical Engineer
 
-Here are some ideas to get you started:
+I'm currently developing my skills in mechanical design, CAD, programming and practical engineering projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Currently working on:** A shoe-drying system engineering project  
+💻 **Programming:** Python, C++  
+📐 **CAD:** Autodesk Fusion 360  
+⚙️ **Interests:** Mechanical Engineering, Manufacturing & Aerospace
+
+### What I'm learning
+- Mechanical design & CAD
+- Electronics and electrical systems
+- Prototyping and testing
+- Engineering problem solving
+
+Contact: anodhyalankathilaka@gmail.com
